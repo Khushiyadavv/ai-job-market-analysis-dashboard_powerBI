@@ -22,50 +22,43 @@ Excel (Data Cleaning & Transformation)
 
 CSV Dataset (Manually created/collected AI job postings)
 
-📊 Dashboard Highlights
-🔹 Overview Panel
+📊 Dashboard Sections
+1. Overview
 Most common job title: Machine Learning Engineer
 
-High-demand skill: Python
+Top skill: Python
 
-Average salary: $121.99K
+Avg. salary: $121.99K
 
-Remote job ratio: 34%
+Remote jobs: ~34%
 
-🔹 Salary Analysis
-Executive-level roles offer the highest average salaries (~$198K)
+2. Salary Analysis
+Executive roles earn the highest (~$198K)
 
-Top 3 highest-paid roles:
+Top-paying jobs: ML Engineer, Data Engineer, Deep Learning Engineer
 
-Machine Learning Engineer
+Large companies offer higher salaries than small/medium ones
 
-Data Engineer
+3. Skills Insights
+Most in-demand: Python, SQL, TensorFlow, Kubernetes
 
-Deep Learning Engineer
+Python leads in both demand and average salary
 
-Large companies pay more on average than small or medium ones
+Skill needs vary by company size and job title
 
-🔹 Skills Insights
-Top-paying skills: Python, SQL, TensorFlow
+4. Remote Work
+33% of jobs are fully remote
 
-High-demand skills across industries: Kubernetes, Linux, PyTorch
+Switzerland and Denmark offer the highest remote salaries
 
-Skill demand analyzed by company size and job title
+Bachelor's degree roles dominate remote opportunities
 
-🔹 Remote Work
-~33% of jobs are fully remote
+5. Education & Experience
+Most required education: Bachelor’s
 
-Switzerland, Denmark, and Norway lead in remote salaries
+Executive-level roles are most in-demand
 
-Bachelor's and PhD-level jobs dominate remote opportunities
-
-🔹 Education & Experience
-Most required education: Bachelor's Degree
-
-Most demanded experience: Executive-level
-
-Salary doesn't vary much across education but rises sharply with experience
-
+Salary grows significantly with experience level
 📌 Key Insights
 Python dominates as the most demanded and top-paying skill.
 
