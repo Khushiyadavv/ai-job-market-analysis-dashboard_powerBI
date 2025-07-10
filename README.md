@@ -1,71 +1,70 @@
 # ai-job-market-analysis-dashboard_powerBI
-This project presents a detailed Power BI dashboard built on global AI/ML job postings data. It explores trends across salary, skills, education, experience level, remote work, and company factors, enabling a deep understanding of job market dynamics in the AI field.
+# 📊 AI Job Market Analysis Dashboard (Power BI)
 
-🔍 Project Overview
-🎯 Objective:
-To analyze the AI job market globally using Power BI to uncover actionable insights regarding:
+This project presents a detailed **Power BI dashboard** built on global AI/ML job postings data. It explores trends across salary, skills, education, experience level, remote work, and company characteristics — offering a comprehensive view of AI job market dynamics.
 
-Salary trends by role, experience, and company size
+---
 
-In-demand skills and technologies
+## 🔍 Project Overview
 
-Remote work adoption
+### 🎯 Objective
+To analyze the AI job market globally using Power BI and uncover actionable insights related to:
 
-Education and qualification requirements
+- 💰 Salary trends by role, experience level, and company size  
+- 💡 In-demand skills and technologies  
+- 🌐 Remote work adoption and regional trends  
+- 🎓 Education and qualification requirements  
+- 🏢 Industry-wise job and salary distribution  
 
-Industry-wise job and salary distribution
+### 🛠️ Tools & Technologies
+- **Power BI** (Data Modeling, DAX, Interactive Dashboards)  
+- **Microsoft Excel** (Data Cleaning & Preprocessing)  
+- **CSV Dataset** (Manually compiled AI job postings)  
 
-🛠️ Tools & Technologies:
-Power BI (Data Modeling, DAX, Interactive Visualizations)
+---
 
-Excel (Data Cleaning & Transformation)
+## 📊 Dashboard Highlights
 
-CSV Dataset (Manually created/collected AI job postings)
+### 🔹 Overview Panel
+- **Most common job title:** Machine Learning Engineer  
+- **High-demand skill:** Python  
+- **Average salary:** $121.99K  
+- **Remote job ratio:** ~34%  
 
-📊 Dashboard Sections
-1. Overview
-Most common job title: Machine Learning Engineer
+### 🔹 Salary Analysis
+- **Executive-level roles** offer the highest average salaries (~$198K)  
+- **Top 3 highest-paid roles:**
+  - Machine Learning Engineer  
+  - Data Engineer  
+  - Deep Learning Engineer  
+- **Large companies** offer higher average salaries than medium/small ones  
 
-Top skill: Python
+### 🔹 Skills Insights
+- **Top-paying skills:** Python, SQL, TensorFlow  
+- **High-demand tech stack:** Kubernetes, Linux, PyTorch  
+- Skill demand breakdown by **job role** and **company size**  
 
-Avg. salary: $121.99K
+### 🔹 Remote Work
+- ~33% of jobs are **fully remote**  
+- **Switzerland, Denmark, and Norway** lead in average remote salaries  
+- **Bachelor's and PhD-level** jobs dominate remote-friendly roles  
 
-Remote jobs: ~34%
+### 🔹 Education & Experience
+- **Most required education:** Bachelor's Degree  
+- **Most demanded experience level:** Executive  
+- **Salary increases** sharply with experience, not necessarily with higher education  
 
-2. Salary Analysis
-Executive roles earn the highest (~$198K)
+---
 
-Top-paying jobs: ML Engineer, Data Engineer, Deep Learning Engineer
+## 📌 Key Insights
 
-Large companies offer higher salaries than small/medium ones
+- 🐍 **Python** is the most in-demand and top-paying skill.  
+- 💼 Executive-level roles with 10+ years of experience offer the highest compensation.  
+- 🌍 Remote jobs are competitively paid and prevalent in tech-savvy regions.  
+- 🎓 A **Bachelor’s degree** is the most common qualification across roles.  
+- 🏢 Companies like **Cloud AI Solutions** and **TechCorp Inc** are key employers with multiple listings.  
 
-3. Skills Insights
-Most in-demand: Python, SQL, TensorFlow, Kubernetes
+---
 
-Python leads in both demand and average salary
 
-Skill needs vary by company size and job title
 
-4. Remote Work
-33% of jobs are fully remote
-
-Switzerland and Denmark offer the highest remote salaries
-
-Bachelor's degree roles dominate remote opportunities
-
-5. Education & Experience
-Most required education: Bachelor’s
-
-Executive-level roles are most in-demand
-
-Salary grows significantly with experience level
-📌 Key Insights
-Python dominates as the most demanded and top-paying skill.
-
-Executive roles with 10+ years of experience command the highest salaries.
-
-Remote jobs offer competitive salaries and are most common in tech-savvy countries.
-
-Bachelor’s degree remains the standard qualification for most jobs.
-
-Cloud AI Solutions and TechCorp Inc are major hiring companies with multiple job listings.
